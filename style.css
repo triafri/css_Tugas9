@@ -1,0 +1,26 @@
+body{
+	background-image: url(slider2.jpg);
+	background-size: cover;
+}
+
+
+img{
+    position: absolute;
+    left: 75%;
+    z-index: -1;
+}
+
+div{
+	float: right;
+	width: 700px;
+	height: auto;
+	text-align: right;
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
+
+p, h1{
+	margin-right: 10px;
+	margin-left: 10px;
+}
